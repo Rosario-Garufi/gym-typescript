@@ -43,7 +43,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
           }}
         >
           <HText>
-            <span className="text-primary-500">JOIN NOW</span> TO GET IN SHAPE
+            <span className="text-primary-500">Iscriviti </span> Adesso
           </HText>
           <p className="my-5">
             Congue adipiscing risus commodo placerat. Tellus et in feugiat nisl
@@ -128,7 +128,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
                 type="submit"
                 className="mt-5 rounded-lg bg-secondary-500 px-20 py-3 transition duration-500 hover:text-white"
               >
-                SUBMIT
+                Iscriviti
               </button>
             </form>
           </motion.div>
